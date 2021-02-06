@@ -23,3 +23,10 @@ List of awesome tools/websites that are useful as a (web) developer
 * [FontAwesome](https://fontawesome.com/icons)
 * [Fontisto](https://fontisto.com/icons)
 * [streamlineicons](https://streamlineicons.com/)
+
+## Fonts
+
+* [open-foundry](https://open-foundry.com/fonts)
+* [League of moveable type](https://www.theleagueofmoveabletype.com/)
+* [awwwards](https://www.awwwards.com/awwwards/collections/free-fonts/)
+* [Google Fonts](https://fonts.google.com/)
