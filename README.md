@@ -30,3 +30,8 @@ List of awesome tools/websites that are useful as a (web) developer
 * [League of moveable type](https://www.theleagueofmoveabletype.com/)
 * [awwwards](https://www.awwwards.com/awwwards/collections/free-fonts/)
 * [Google Fonts](https://fonts.google.com/)
+
+## SVG Background
+
+* [svgbackgrounds](https://www.svgbackgrounds.com/)
+* [Get Waves](https://getwaves.io/)
