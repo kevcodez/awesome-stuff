@@ -16,3 +16,10 @@ List of awesome tools/websites that are useful as a (web) developer
 ## SEO
 
 * [ahrefs](https://ahrefs.com/) - SEO Tools & Resources
+
+## Icons
+
+* [icons8](https://icons8.com/icons)
+* [FontAwesome](https://fontawesome.com/icons)
+* [Fontisto](https://fontisto.com/icons)
+* [streamlineicons](https://streamlineicons.com/)
