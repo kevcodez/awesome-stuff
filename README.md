@@ -35,3 +35,4 @@ List of awesome tools/websites that are useful as a (web) developer
 
 * [svgbackgrounds](https://www.svgbackgrounds.com/)
 * [Get Waves](https://getwaves.io/)
+* [magicpattern](https://www.magicpattern.design/seamless-patterns)
