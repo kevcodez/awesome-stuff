@@ -36,3 +36,12 @@ List of awesome tools/websites that are useful as a (web) developer
 * [svgbackgrounds](https://www.svgbackgrounds.com/)
 * [Get Waves](https://getwaves.io/)
 * [magicpattern](https://www.magicpattern.design/seamless-patterns)
+
+## Icons
+
+* [iconscout](http://iconscout.com)
+* [uxwing](http://uxwing.com)
+* [feathericons](http://feathericons.com)
+* [tablericons](http://tablericons.com)
+* [simpleicons](http://simpleicons.org)
+* [linearicons](http://linearicons.com/free)
