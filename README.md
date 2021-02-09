@@ -8,7 +8,7 @@ List of awesome tools/websites that are useful as a (web) developer
 
 * [Coolors](https://coolors.co/) - Find beautiful color schemes for your project.
 * [Canva](https://www.canva.com/) - Everyone can create professional designs with Canva.
-* [pixeltrue Illustrations](https://www.pixeltrue.com/free-illustrations)
+* [pixeltrue Illustrations](https://www.pixeltrue.com/free-illustrations) - Free High-Quality Vector Illustrations & Animations
 
 ## Copywriting
 
